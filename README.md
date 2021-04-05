@@ -1,13 +1,18 @@
-# Project Title
-
-One Paragraph of project description goes here
+# Document Anonymizer
+This program takes in a blob of text and tries to remove all PII whilst still retaining information that is important to the text.
 
 ## Dependencies
 
 ### Windows
-Run ```pip install -r requirements.txt```<br/>
-Run ```python -m spacy download en_core_web_sm```
+1. Run ```pip install -r requirements.txt```<br/>
+
+2. Run ```python -m spacy download en_core_web_sm```
 
 ### Mac
-Run ```pip3 install -r requirements.txt```<br/>
-Run ```python3 -m spacy download en_core_web_sm```
+1. Run ```pip3 install -r requirements.txt```<br/>
+
+2. Run ```python3 -m spacy download en_core_web_sm```
+
+## Sources
+Spacy Linguistic Features: https://spacy.io/usage/linguistic-features <br/>
+Maarten Grootendorst "Keyword Extraction with BERT": https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea <br/>
