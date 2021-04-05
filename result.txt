@@ -1,0 +1,4 @@
+REDACTED TEXT:
+In a recent study , a topology - evolving method called Cellular Encoding ( [REDACTED] ; Gruau et al . , 1996 ) was compared to a fixed - network method called Enforced Subpopulations ( ESP ) on the double pole balancing task without velocity inputs ( [REDACTED] and [REDACTED] ) . Since ESP had no a priori knowledge of the correct number of hidden nodes for solving the task , each time it failed , it was restarted with a new random number of hidden nodes . However , even then , ESP was five times faster than [REDACTED] . In other words , evolving structure did not improve performance in this study .
+KEYWORDS:
+evolving restarted recent new failed faster
