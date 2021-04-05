@@ -2,14 +2,12 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## Dependencies
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Windows
+Run ```pip install -r requirements.txt```
+Run ```python -m spacy download en_core_web_sm```
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+### Mac
+Run ```pip3 install -r requirements.txt```
+Run ```python3 -m spacy download en_core_web_sm```
