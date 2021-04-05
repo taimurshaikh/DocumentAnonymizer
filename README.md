@@ -5,9 +5,9 @@ One Paragraph of project description goes here
 ## Dependencies
 
 ### Windows
-Run ```pip install -r requirements.txt```
+Run ```pip install -r requirements.txt```<br/>
 Run ```python -m spacy download en_core_web_sm```
 
 ### Mac
-Run ```pip3 install -r requirements.txt```
+Run ```pip3 install -r requirements.txt```<br/>
 Run ```python3 -m spacy download en_core_web_sm```
